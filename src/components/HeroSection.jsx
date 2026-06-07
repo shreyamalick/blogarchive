@@ -16,7 +16,7 @@ export const HeroSection = () => {
       {/* Text */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
         <h1 className="blog-heading text-4xl md:text-6xl font-bold text-white">
-          Blog Archive
+          Blog Archive By Shreya
         </h1>
 
         <p className="mt-4 text-lg md:text-xl text-gray-200 max-w-2xl">
